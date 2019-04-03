@@ -1,3 +1,3 @@
 # GifTastic
 
-Please don't grade until due date
+Project that utilizes HTML, CSS, JS, JQuery, AJAX, and Gliphy API. 
